@@ -1,0 +1,10 @@
+﻿  A1.cpp
+C:\Users\gurne\Documents\Semester 2\Assignment 1_Lucas_Gurney\Assignment 1_Lucas_Gurney\A1.cpp(258,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gurne\Documents\Semester 2\Assignment 1_Lucas_Gurney\Assignment 1_Lucas_Gurney\A1.cpp(273,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gurne\Documents\Semester 2\Assignment 1_Lucas_Gurney\Assignment 1_Lucas_Gurney\A1.cpp(283,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gurne\Documents\Semester 2\Assignment 1_Lucas_Gurney\Assignment 1_Lucas_Gurney\A1.cpp(293,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gurne\Documents\Semester 2\Assignment 1_Lucas_Gurney\Assignment 1_Lucas_Gurney\A1.cpp(303,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gurne\Documents\Semester 2\Assignment 1_Lucas_Gurney\Assignment 1_Lucas_Gurney\A1.cpp(434,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gurne\Documents\Semester 2\Assignment 1_Lucas_Gurney\Assignment 1_Lucas_Gurney\A1.cpp(419): warning C4715: 'averageStream': not all control paths return a value
+C:\Users\gurne\Documents\Semester 2\Assignment 1_Lucas_Gurney\Assignment 1_Lucas_Gurney\A1.cpp(375): warning C4715: 'averageConsole': not all control paths return a value
+  Assignment 1_Lucas_Gurney.vcxproj -> C:\Users\gurne\Documents\Semester 2\Assignment 1_Lucas_Gurney\x64\Debug\Assignment 1_Lucas_Gurney.exe
